@@ -1,4 +1,4 @@
-import Point
+from week_8.Point import Point
 
 point_p = Point(10, 5)
 
