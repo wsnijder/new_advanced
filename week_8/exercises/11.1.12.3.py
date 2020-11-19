@@ -8,3 +8,5 @@ class Point:
         return slopexy
 
 print(Point(4,10).slope_from_origin())
+
+#This program will fail for points below the x axis and left of the y axis
