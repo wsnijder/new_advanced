@@ -1,4 +1,4 @@
-from week_8.geometry.Point import Point
+import Point
 
 point_p = Point(10, 5)
 
